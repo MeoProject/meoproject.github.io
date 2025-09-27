@@ -1,0 +1,6 @@
+@import url("https://chinese-fonts-cdn.deno.dev/packages/lywkpmydb/dist/LXGWWenKaiMonoScreen/result.css");
+
+:root {
+  --md-text-font: "LXGW Wenkai Mono Screen";
+  --md-code-font: "LXGW Wenkai Mono Screen";
+}
