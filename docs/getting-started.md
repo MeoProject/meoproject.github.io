@@ -23,7 +23,15 @@ poetry install --no-root
 3. 启动项目以生成配置文件
 
 ```bash
-poetry run py app.py
+poetry run python app.py
 ```
 
 4. 配置项目
+
+(尚未编写)
+
+5. 启动项目
+
+```bash
+poetry run python app.py
+```
