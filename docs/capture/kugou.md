@@ -16,7 +16,7 @@
 ![图2](assets/kg/Reqable1.png)  
 
 3. 在酷狗音乐随便点一首歌  
-![图3](assets/kg/kugou1)  
+![图3](assets/kg/kugou1.png)  
 
 4. 在Reqable PC端找到v5/url这个包  
 ![图4](assets/kg/Reqable3.png)  
