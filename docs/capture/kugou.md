@@ -10,15 +10,15 @@
 ## 酷狗音乐
 
 1. 打开Reqable，开始抓包  
-![图1](assets/A40AF4424AA1376EE79EEF4DD3F62ABF.png)  
+![图1](assets/kg/Reqable2.png)  
 
 2. 打开酷狗音乐，在PC端Reqable先预设好搜索  
-![图2](assets/03BD3220C2188EEB674743F7BCFD7D8D.png)  
+![图2](assets/kg/Reqable1.png)  
 
 3. 在酷狗音乐随便点一首歌  
-![图3](assets/2643C79B7A1FF2B90849B2A6E908348C.png)  
+![图3](assets/kg/kugou1)  
 
 4. 在Reqable PC端找到v5/url这个包  
-![图4](assets/5244F68C3BBC128753FEAF22552ABB16.png)  
+![图4](assets/kg/Reqable3.png)  
 
 在参数中找到userid和token这两个值就可以在配置文件里填写了
